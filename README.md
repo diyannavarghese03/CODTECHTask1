@@ -1,19 +1,19 @@
-Name: DIYA ANNA VARGHESE
-COMPANY: CODTECH IT SOLUTIONS
-ID: CTIS8957
-Domain: Software Testing
-Duration: 05 May 2026 - 02 June 2026
-Mentor:
+** ##### Name**: DIYA ANNA VARGHESE
+** ##### COMPANY**: CODTECH IT SOLUTIONS
+** ##### ID**: CTIS8957
+** ##### Domain**: Software Testing
+** ##### Duration**: 05 May 2026 - 02 June 2026
+** ##### Mentor**:
 
-Overview of the project
+** ### Overview of the project **
 
-Project: AUTOMATE THE TESTING OF A SAMPLE WEB APPLICATION USING SELENIUM WEBDRIVER.
+** #####  Project: AUTOMATE THE TESTING OF A SAMPLE WEB APPLICATION USING SELENIUM WEBDRIVER. **
 
-Objective
+* ###  Objective *
 
 The objective of this project to perform test automation of a sample appliation's login and navigation functionality using selenium webdrive
 
-Technology used:
+*Technology used:*
 Python
 Selenium webdrive
 Selenium extension for firefox
