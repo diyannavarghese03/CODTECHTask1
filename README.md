@@ -14,8 +14,8 @@
 The objective of this project to perform test automation of a sample appliation's login and navigation functionality using selenium webdrive
 
 *Technology used:*
-Python
-Selenium webdrive
-Selenium extension for firefox
-Firefox web Browser
+Python <br>
+Selenium webdrive<br>
+Selenium extension for firefox<br>
+Firefox web Browser<br>
 <img width="1881" height="354" alt="image" src="https://github.com/user-attachments/assets/f10ca252-c930-4ada-b48d-2035317d8d03" />
