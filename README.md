@@ -13,7 +13,7 @@
 
 The objective of this project to perform test automation of a sample appliation's login and navigation functionality using selenium webdrive
 
-*Technology used:*
+*Technology used:*<br>
 Python <br>
 Selenium webdrive<br>
 Selenium extension for firefox<br>
